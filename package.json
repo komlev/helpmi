@@ -1,0 +1,25 @@
+{
+  "name": "helpmi",
+  "version": "1.0.0",
+  "description": "Logging and debugging utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komlev/helpmi.git"
+  },
+  "keywords": [
+    "debug",
+    "log",
+    "javascript",
+    "utility"
+  ],
+  "author": "komlev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komlev/helpmi/issues"
+  },
+  "homepage": "https://github.com/komlev/helpmi#readme"
+}
