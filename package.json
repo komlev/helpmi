@@ -1,6 +1,6 @@
 {
   "name": "helpmi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Logging and debugging utility library",
   "main": "dist/index.js",
   "scripts": {
