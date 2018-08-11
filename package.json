@@ -2,7 +2,7 @@
   "name": "helpmi",
   "version": "1.0.1",
   "description": "Logging and debugging utility library",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "parcel build ./src/index.js --no-source-maps"
   },
