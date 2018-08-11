@@ -1,0 +1,6 @@
+# Browsers that we support
+> 2%
+ie > 10
+not ie <= 10
+safari > 8
+not safari <= 8
